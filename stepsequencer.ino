@@ -53,6 +53,7 @@ void      sequence() {
 
 
 //have the tempo effect the speed of incrementation
+//use currentstep to increment
 //if the LED is on and the button is pressed, the note should be played
 //note must start turned off
 void      stepLed() {
